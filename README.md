@@ -1,16 +1,19 @@
-### Hi there 👋
+# Привет, меня зовут Валя!
 
-<!--
-**BrianKowalski/briankowalski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Обо мне: 
+Звать Вэл, 23 года. Закончил в КФУ "Прикладная информатика в экономике", но не понравился 1С. Во время учебы на Stepik изучал Python. После учебы в университете поступил в Яндекс.Практикум на курс "Специалист по Data Science"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src='https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif' width='400px'>
+</p>
+
+---
+
+### Курсы:
+
+- Специалист по Data Science
+- ["Поколение Python": курс для начинающих](https://stepik.org/cert/1129647)
+- ["Поколение Python": курс для продвинутых](https://stepik.org/cert/1239699)
+- [Инди-курс программирования на Python](https://stepik.org/cert/1376800)
