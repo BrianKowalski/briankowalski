@@ -13,7 +13,7 @@
 
 ### Курсы:
 
-- [Специалист по Data Science] (https://github.com/BrianKowalski/briankowalski/blob/main/Kovalyova%20Valentina_20232ЦПДС00618.pdf)
+- [Специалист по Data Science](https://github.com/BrianKowalski/briankowalski/blob/main/Kovalyova%20Valentina_20232ЦПДС00618.pdf)
 - ["Поколение Python": курс для начинающих](https://stepik.org/cert/1129647)
 - ["Поколение Python": курс для продвинутых](https://stepik.org/cert/1239699)
 - [Инди-курс программирования на Python](https://stepik.org/cert/1376800)
